@@ -1,6 +1,7 @@
 # hadoop-installation-windows
 This repository contains the resources and steps for installing hadoop in windows.
 Hadoop framework is well comportable in the Linux environment but for the users who are not familiar with Linux environment but want to use the hadoop framework can be use this repository. 
+
 #Steps involved in hadoop installation in windows
 1.	Install Java 
 2.	Configure and install hadoop
@@ -9,4 +10,6 @@ Hadoop framework is well comportable in the Linux environment but for the users 
 5.	Input file to mapreduce
 6.	Display the output
 
-You can see the every detailed steps in the 
+You can see the every detailed steps in the hadoop-installation-window.pdf file
+
+Feel free to ask your queries or any troubles while the installation process.
